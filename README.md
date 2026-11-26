@@ -160,7 +160,7 @@ The findings show that churned customers have lower average feature adoption and
 
 Focusing on Enterprise retention, better onboarding, and improved customer support could help protect recurring revenue and strengthen long-term customer relationships.
 
-##**12. Project link **
+**12. Project link **
 https://drive.google.com/drive/folders/1PtcQoXiH33C5cLFDKiJVuU8LCjWy9Wtv?usp=sharing
 
 ---
