@@ -165,3 +165,5 @@ Focusing on Enterprise retention, better onboarding, and improved customer suppo
 ---
 
 **Project completed by: Khushi Singhal**
+Linkedin : https://www.linkedin.com/in/khushi-singhal-
+Email- khushisinghal694@gmail.com
