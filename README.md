@@ -36,8 +36,6 @@ The analysis uses a simulated B2B SaaS customer dataset containing **50,000 reco
 
 The dataset contains customer details, subscription plans, revenue, payment status, product usage, support tickets, churn risk scores, and churn status.
 
-> **Note:** This is a synthetic dataset. It does not represent actual customer records or the real business performance of VirtuBox Infotech.
-
 ## 4. Tools & Technologies
 
 | Tool | Purpose |
